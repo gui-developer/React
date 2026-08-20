@@ -1,7 +1,7 @@
 function Home() {
   return (
     /*Container Principal*/
-    <div className="bg-indigo-900 flex justify-center">
+    <div className="bg-linear-to-r from-indigo-500 via-purple-500 to-pink-500 flex justify-center">
 
         {/*Seção com 2 colunas*/}
         <div className="container grid grid-cols-2 text-white">
